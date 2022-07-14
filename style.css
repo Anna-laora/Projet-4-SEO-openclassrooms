@@ -8,10 +8,13 @@ body {
 }
 
 .keywords {
-  color: #797676;
-  font-size: 1px;
+  color: black;
+  font-size: 12px;
 }
-
+.keywords2 {
+  position: absolute;
+  top: 69px;
+}
 a,
 button {
   transition: all 0.3s ease-in-out;
