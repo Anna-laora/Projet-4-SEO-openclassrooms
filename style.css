@@ -6,7 +6,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+a {
+  color: #ffffff;
+}
 .keywords {
   color: black;
   font-size: 12px;
@@ -15,6 +17,10 @@ body {
   position: absolute;
   top: 69px;
 }
+.keywords3 {
+  color: #ffffff;
+}
+
 a,
 button {
   transition: all 0.3s ease-in-out;
@@ -141,7 +147,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-  color: rgba(255, 255, 255, 0.6);
+  color: #ffffff;
 }
 
 .d-bloc .a-btn:hover,
@@ -657,8 +663,7 @@ h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn {
   font-family: "helvetica";
   font-weight: 400;
   color: #575757 !important;
@@ -781,15 +786,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f2966b;
+  background-color: #c15523;
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #ffffff !important;
 }
 
 .btn-atomic-tangerine {
-  background: #f2966b;
+  background: #c15523;
   color: #ffffff !important;
 }
 
