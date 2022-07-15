@@ -316,6 +316,8 @@ a:hover {
 }
 
 .navbar-brand img {
+  width: 217px;
+  height: 48px;
   max-height: 200px;
   margin: 0 5px 0 0;
   display: inline;
@@ -755,6 +757,8 @@ h4 {
 }
 
 .portfolio-thumb {
+  width: 270px;
+  height: 270px;
   margin-bottom: 24px;
 }
 
