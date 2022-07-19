@@ -34,7 +34,7 @@ a:hover {
 
 .center-block{
   width: 100px;
-  height: 100px;
+  height: ;
 }
 
 #page-loading-blocs-notifaction {
@@ -695,7 +695,7 @@ label,
 }
 
 p {
-  font-size: 11px;
+  font-size: 12px;
 }
 
 .tight-width-whitespace {
