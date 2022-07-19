@@ -32,6 +32,11 @@ a:hover {
   cursor: pointer;
 }
 
+.center-block{
+  width: 100px;
+  height: 100px;
+}
+
 #page-loading-blocs-notifaction {
   position: fixed;
   top: 0;
