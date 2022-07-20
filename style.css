@@ -113,6 +113,7 @@ a:hover {
   background: top no-repeat;
 }
 
+
 .bloc-bg-texture::before {
   content: "";
   background-size: 2px 2px;
