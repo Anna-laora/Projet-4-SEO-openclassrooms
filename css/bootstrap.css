@@ -301,8 +301,10 @@ ul {
     }
     
     .col-sm-4 {
-        width: 33.33333333%
+        width: 33.33333333%;
+        font-size: 18px;
     }
+
     .col-sm-3 {
         width: 25%
     }
