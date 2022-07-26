@@ -56,7 +56,7 @@ a{
     padding: 5px;
     margin: 0;
     font-size: 20px;
-    color: rgb(40, 40, 40);
+    color: white;
 }
 a,
 button {
@@ -838,7 +838,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F06464;
+    background-color: #9C3904;
 }
 
 .tc-white {
@@ -846,7 +846,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background-color: #F06464;
+    background-color: #9C3904;
     color: #FFFFFF!important;
 }
 
