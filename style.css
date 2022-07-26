@@ -56,8 +56,7 @@ a{
     padding: 5px;
     margin: 0;
     font-size: 20px;
-    color: white;
-    color: #FFF;
+    color: rgb(40, 40, 40);
 }
 a,
 button {
@@ -801,7 +800,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
-    font-size: 20px;
+    font-size: ;
 }
 
 .portfolio-thumb {
@@ -840,7 +839,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #000000;
+    background-color: #F06464;
 }
 
 .tc-white {
