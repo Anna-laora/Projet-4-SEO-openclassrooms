@@ -66,6 +66,7 @@ button {
 .hors-ecran {
    position: absolute;
    left: -99999rem;
+   color: white;
 } 
 
 
