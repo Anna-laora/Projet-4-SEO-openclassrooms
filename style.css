@@ -62,6 +62,16 @@ button {
     transition: all .3s ease-in-out;
 }
  
+
+.hors-ecran {
+   position: absolute;
+   left: -99999rem;
+} 
+
+
+
+
+
 a:hover {
     cursor: pointer;
 }
